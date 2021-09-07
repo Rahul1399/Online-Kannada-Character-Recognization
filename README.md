@@ -1,1 +1,1 @@
-# Online-Kannada-Character-Recognization
+# Online-Kannada-Character-Recognization using CNN
